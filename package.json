@@ -1,6 +1,6 @@
 {
   "name": "smably",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Peronal npm card for Sylvan Mably (@smably)",
   "main": "bin/index.js",
   "repository": {
