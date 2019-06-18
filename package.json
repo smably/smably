@@ -1,7 +1,7 @@
 {
   "name": "@smably/card",
   "version": "1.0.1",
-  "description": "Peronal npm card for Sylvan Mably (@smably)",
+  "description": "Personal npm card for Sylvan Mably (@smably)",
   "main": "bin/index.js",
   "repository": {
     "type": "git",
