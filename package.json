@@ -1,11 +1,11 @@
 {
-  "name": "smably",
+  "name": "@smably/card",
   "version": "1.0.0",
   "description": "Peronal npm card for Sylvan Mably (@smably)",
   "main": "bin/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/smably/smably.git"
+    "url": "git://github.com/smably/smably.git"
   },
   "scripts": {
     "prepublishOnly": "webpack"
