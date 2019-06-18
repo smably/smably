@@ -5,7 +5,7 @@
 Via npx:
 
 ```bash
-npx smably
+npx @smably/card
 ```
 
 # Other
@@ -19,4 +19,3 @@ ie: `npm init my-card`
 [npm]: https://www.npmjs.com/
 [tierney (@bitandbang)]: https://www.npmjs.com/package/bitandbang
 [create-my-card]: https://www.npmjs.com/package/create-my-card
-
